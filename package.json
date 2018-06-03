@@ -2,11 +2,8 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "https://maxiluckiesgin.github.io/my-app",
-=======
   "homepage" : "https://maxiluckiesgin.github.io/my-app",
->>>>>>> 30bdaccfe56165af01c2acb2595917385fc100f0
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.0",
