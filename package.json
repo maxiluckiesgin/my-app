@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://maxiluckiesgin.github.io/my-app",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
