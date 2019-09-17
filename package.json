@@ -5,7 +5,7 @@
   "homepage": "https://maxiluckiesgin.github.io/my-app",
   "homepage" : "https://maxiluckiesgin.github.io/my-app",
   "dependencies": {
-    "gh-pages": "^1.2.0",
+    "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4"
